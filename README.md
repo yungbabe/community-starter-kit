@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Mona has created a probot app.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It can generate texts to greet the developers worldwide.
 
 ## Getting started
 
